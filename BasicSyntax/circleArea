@@ -1,0 +1,13 @@
+function circleArea (input) {
+    if (typeof(input)=='string') {
+        console.log ('We can not calculate the circle area, because we receive a string.');
+    } else if (typeof(input)=='number') {
+        let result=Math.pow(input,2)*Math.PI;
+        console.log(result.toFixed(2));
+    let a='a';
+    a.
+    }
+}
+
+circleArea('name');
+circleArea(5);

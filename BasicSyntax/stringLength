@@ -1,0 +1,9 @@
+function stringLength (stringOne,stringTwo,stringThree) {
+    let sumOfStringsLength = stringOne.length+stringTwo.length+stringThree.length;
+    let average = Math.floor(sumOfStringsLength/3);
+    console.log(sumOfStringsLength);
+    console.log(average);
+}
+
+stringLength('chocolate', 'ice cream', 'cake');
+stringLength('pasta', '5', '22.3');
