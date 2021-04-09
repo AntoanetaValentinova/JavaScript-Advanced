@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0"
+  },
+  "name": "pizzaplace",
+  "version": "1.0.0",
+  "main": "pizzUni.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
